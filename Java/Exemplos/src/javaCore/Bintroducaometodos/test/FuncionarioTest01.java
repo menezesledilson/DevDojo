@@ -6,12 +6,10 @@ public class FuncionarioTest01 {
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario();
 
-        funcionario.nome = "Will";
-        funcionario.idade = 25;
-        funcionario.salarios = new double[]{1200, 987.32, 2000};
-
+        funcionario.setNome("Will");
+        funcionario.setIdade(25);
+        funcionario.setSalarios(new double[]{1200, 987.32, 2000});
         funcionario.impremi();
-        funcionario.imprimeMediaSalario();
+        System.out.println("Media " + funcionario.getMedia());
     }
-
 }
