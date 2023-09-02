@@ -6,7 +6,7 @@ public class Jogador {
 
     public void imprime() {
         System.out.println(this.nome);
-        if(time !=null){
+        if(time !=null){  //unidirecional
             System.out.println( time.getNome());
         }
     }
