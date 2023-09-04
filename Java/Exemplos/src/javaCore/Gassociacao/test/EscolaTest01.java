@@ -6,7 +6,7 @@ import javaCore.Gassociacao.dominio.Professor;
 public class EscolaTest01 {
 
     public static void main(String[] args) {
-        Professor  professor = new Professor("Jiraya Sensei");
+        Professor  professor = new Professor("Jiraya Sensei", "Mestre");
         Professor [] professores = {professor};
         Escola escola = new Escola( "Konoha", professores);
 
