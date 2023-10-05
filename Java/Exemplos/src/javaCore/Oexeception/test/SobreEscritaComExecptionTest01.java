@@ -13,7 +13,7 @@ public class SobreEscritaComExecptionTest01 {
 
         try{
             funcionario.salvar();
-        } catch (LoginInvalidoException | FileNotFoundException e){
+        } catch (FileNotFoundException e){
             e.printStackTrace();
         } catch (LoginInvalidoExeption e) {
 
