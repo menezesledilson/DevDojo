@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c21900e-af3d-490c-9e96-121ed5a43642" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivo/teste.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="6c21900e-af3d-490c-9e96-121ed5a43642" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/DEVMEDIA/BACK_END/DevDojo",
+    "last_opened_file_path": "D:/DEVMEDIA/BACK_END/DevDojo/Java/Exemplos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -169,6 +162,7 @@
       <workItem from="1696509555405" duration="15751000" />
       <workItem from="1696594711819" duration="17533000" />
       <workItem from="1696621672335" duration="2066000" />
+      <workItem from="1696625874247" duration="31000" />
     </task>
     <servers />
   </component>
