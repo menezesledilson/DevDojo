@@ -1,7 +1,7 @@
 package javaCore.Xserializacao.dominio;
 
 
-import java.io.Serial;
+
 import java.io.Serializable;
 
 public class Aluno implements Serializable {
