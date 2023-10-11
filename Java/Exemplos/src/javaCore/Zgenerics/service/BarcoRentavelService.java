@@ -1,28 +1,30 @@
 package javaCore.Zgenerics.service;
 
-import javaCore.Zgenerics.dominio.Carro;
+import javaCore.Zgenerics.dominio.Barco;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class CarroRentavelService {
-    private List<Carro> carrosDisponiveis = new ArrayList<>(List.of(new Carro("BMW"), new Carro("Fusca")));
+public class BarcoRentavelService {
+    private List<Barco> barcosDisponiveis = new ArrayList<>(List.of(new Barco("Lancha"), new Barco("Canoa")));
 
-    public Carro buscarCarroDisponivel(){
-        System.out.println("Buscando carro disponivel....");
+    public Barco buscarBarcoDisponivel() {
+        System.out.println("Buscando Barco disponivel....");
 
-        Carro carro = carrosDisponiveis.remove(0);
-        System.out.println("Alugando carro " +carro);
-        System.out.println("Carros disponivel para alugar: ");
-        System.out.println(carrosDisponiveis);
+        Barco barco = barcosDisponiveis.remove(0);
+        System.out.println("Alugando Barco " + barco);
+        System.out.println("barcos disponivel para alugar: ");
+        System.out.println(barcosDisponiveis);
 
-        return carro;
+        return barco;
     }
-    public void retornarCarroAlugado(Carro carro){
-        System.out.println("Devolvendo carro " + carro);
-        carrosDisponiveis.add(carro);
+
+    public void retornarBarcoAlugado(Barco barco) {
+        System.out.println("Devolvendo Barco " + barco);
+        barcosDisponiveis.add(barco);
         System.out.println("Carros diposnivel para alugar: ");
-        System.out.println(carrosDisponiveis);
+        System.out.println(barcosDisponiveis);
 
     }
 }
+

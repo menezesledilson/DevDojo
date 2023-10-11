@@ -1,16 +1,16 @@
-package javaCore.YColecoes.test;
+package javaCore.Zgenerics.test;
 
 
 import java.util.Objects;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Consumidor {
+public class Consumidor01 {
 
     private Long id;
 
     private String nome;
 
-    public Consumidor(String nome) {
+    public Consumidor01(String nome) {
         this.id = ThreadLocalRandom.current().nextLong(0,1000_000);
         this.nome = nome;
     }
@@ -19,7 +19,7 @@ public class Consumidor {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Consumidor that = (Consumidor) o;
+        Consumidor01 that = (Consumidor01) o;
         return Objects.equals(id, that.id);
     }
 

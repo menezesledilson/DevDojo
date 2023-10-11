@@ -1,4 +1,4 @@
-package javaCore.YColecoes.dominio;
+package javaCore.YColecoes.test;
 
 
 import java.util.Objects;
