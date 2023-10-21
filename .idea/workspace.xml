@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c21900e-af3d-490c-9e96-121ed5a43642" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/Exemplos/src/javaCore/Wnio/test/PathTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/src/javaCore/Wnio/test/PathTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivo_renomeado.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/maratona-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/maratona-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/DEVMEDIA/BACK_END/DevDojo/Java",
+    "last_opened_file_path": "D:/DEVMEDIA/BACK_END/DevDojo/Java/Exemplos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -167,6 +169,7 @@
       <workItem from="1696621672335" duration="2066000" />
       <workItem from="1696625874247" duration="31000" />
       <workItem from="1696626518597" duration="47000" />
+      <workItem from="1697849811738" duration="30000" />
     </task>
     <servers />
   </component>
