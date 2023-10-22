@@ -15,18 +15,22 @@ public class ProducerService {
         requireValidId(id);
         ProducerRepository.delete(id);
     }
-
     public static void update(Producer producer) throws IllegalAccessException {
         requireValidId(producer.getId());
         ProducerRepository.update(producer);
-
     }
-
     public static List<Producer> findAll() {
         return ProducerRepository.findAll();
     }
     public static List<Producer> findByName(String name) {
         return ProducerRepository.findByName(name);
+    }
+    public static void showProducerMetaData() {
+         ProducerRepository.showProducerMetaData();
+    }
+
+    public static void showDriverMetaData() {
+        ProducerRepository.showDriverMetaData();
     }
 
     private static void requireValidId(Integer id) throws IllegalAccessException {
