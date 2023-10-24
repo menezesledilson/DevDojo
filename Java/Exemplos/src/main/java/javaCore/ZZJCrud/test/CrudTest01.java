@@ -5,7 +5,7 @@ import javaCore.ZZJCrud.service.ProducerService;
 
 import java.util.Scanner;
 
-public class crudTest01 {
+class crudTest01 {
     private static final Scanner SCANNER = new Scanner(System.in);
 
     public static void main(String[] args) {

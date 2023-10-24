@@ -10,5 +10,8 @@
         <module name="maratona-java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Exemplos" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

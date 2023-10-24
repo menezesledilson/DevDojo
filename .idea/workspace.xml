@@ -5,10 +5,378 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c21900e-af3d-490c-9e96-121ed5a43642" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Arquivo_renomeado.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/ZZKjunit/dominio/Manga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/ZZKjunit/test/PersonServiceTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exemplos/src/test/java/javaCore/ZZKjunit/dominio/MangaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Exemplos/src/test/java/javaCore/ZZKjunit/service/PersonServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/Exemplos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Exemplos/maratona-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/maratona-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/maratona-java.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/Exemplos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/ZZGconcorrencia/test/AtomicIntegerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/ZZGconcorrencia/test/AtomicIntegerTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/ZZJCrud/test/CrudTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/ZZJCrud/test/CrudTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/Zgenerics/test/MetodoGenericoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Exemplos/src/main/java/javaCore/Zgenerics/test/MetodoGenericoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/src/main/resources/messages_en_US.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/src/main/resources/messages_pt_BR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/AtomicIntegerTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula01Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula02TiposPrimitivos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula03TiposPrimitivosExercicios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula04Operadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula05EstruturasCondicionais01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula05EstruturasCondicionais02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula05EstruturasCondicionais03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula05EstruturasCondicionais04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula05EstruturasCondicionais05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula05EstruturasCondicionais06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula06EstruturaDeRepeticao01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula06EstruturaDeRepeticao02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula06EstruturaDeRepeticao03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula06EstruturaDeRepeticao04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula06EstruturaDeRepeticao05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula07Arrays01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula07Arrays02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula07Arrays03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula08ArraysMultidimensionais01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/academy/devdojo/maratonajava/Introducao/Aula08ArraysMultidimensionais02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Aintroducaoclasses/dominio/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Aintroducaoclasses/dominio/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Aintroducaoclasses/dominio/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Aintroducaoclasses/test/CarroTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Aintroducaoclasses/test/EstudanteTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Aintroducaoclasses/test/EstudanteTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Aintroducaoclasses/test/ProfessorTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/dominio/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/dominio/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/dominio/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/dominio/ImpressoraEstudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/dominio/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/CalculadoraTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/CalculadoraTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/CalculadoraTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/CalculadoraTest04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/CalculadoraTest05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/EstudanteTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/EstudanteTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/FuncionarioTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Bintroducaometodos/test/PessoaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Csobrecargametodos/dominio/Anime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Csobrecargametodos/test/AnimeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Dconstrutores/dominio/Anime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Dconstrutores/test/AnimeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Eblocosinicializacao/dominio/Anime01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Eblocosinicializacao/test/AnimeTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Fmodificadorestatico/domain/Anime01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Fmodificadorestatico/domain/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Fmodificadorestatico/test/AnimeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Fmodificadorestatico/test/CarroTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/dominio/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/dominio/Escola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/dominio/Jogador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/dominio/Local.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/dominio/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/dominio/Seminario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/dominio/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/test/AssociacaoTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/test/EscolaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/test/JogadorTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/test/Jogadortest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/test/LeituraDoTeclado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/test/LeituraDoTecladoTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Gassociacao/test/jogadorTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Hherenca/dominio/Endereco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Hherenca/dominio/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Hherenca/dominio/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Hherenca/test/HerancaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Hherenca/test/HerancaTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Isobrescrita/dominio/Anime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Isobrescrita/test/AnimeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Jmodificadorfinal/dominio/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Jmodificadorfinal/dominio/Comprador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Jmodificadorfinal/dominio/Ferrari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Jmodificadorfinal/test/CarroTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Kenum/Dominio/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Kenum/Dominio/TipoCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Kenum/Dominio/TipoPagamento$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Kenum/Dominio/TipoPagamento$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Kenum/Dominio/TipoPagamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Kenum/test/ClienteTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Lclassesabstratas/dominio/Desenvolvedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Lclassesabstratas/dominio/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Lclassesabstratas/dominio/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Lclassesabstratas/dominio/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Lclassesabstratas/test/FuncionarioTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Minterfaces/dominio/DataLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Minterfaces/dominio/DataRemover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Minterfaces/dominio/DatabaseLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Minterfaces/dominio/FileLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Minterfaces/test/DataLoaderTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/Repositorio/Repositorio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/dominio/Computador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/dominio/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/dominio/Taxavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/dominio/Televisao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/dominio/Tomate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/servico/CalculadoraImposto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/servico/RepositorioArquivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/servico/RepositorioBancoDeDados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/servico/RepositorioMemoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/test/ProdutoTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/test/ProdutoTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/test/ProdutoTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Npolimorfismo/test/RepositorioTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/Dominio/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/Dominio/Leitor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/Dominio/Leitor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/Dominio/LoginInvalidoExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/Dominio/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/Dominio/error/test/StackOverflowTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/runtime/test/RuntimeExceptionTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/runtime/test/RuntimeExceptionTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/runtime/test/RuntimeExceptionTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/runtime/test/RuntimeExceptionTest04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/test/ExceptionTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/test/ExceptionTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/test/LoginInvalidoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/test/LoginInvalidoExceptionTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/test/SobreEscritaComExecptionTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Oexeception/test/TryWithResourcesTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Pwrappers/test/WrapperTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Qstring/test/StringBuilderTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Qstring/test/StringPerformaceTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Qstring/test/StringTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Qstring/test/StringTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/CalendarTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/ChronoUnitTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/DurationTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/InstanteTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/LocalDateTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/LocalDateTimeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/LocalTimeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/ObterProximoDiaUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/ObterProximoDiaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/PeriodTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/TemporalAdjuster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/TemporalAdjusterTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/TemporalAdjustersTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/ZoneTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/RDate/test/datetest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Sformatacao/DateFormatTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Sformatacao/DateTmeFormatterTEst01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Sformatacao/LocalTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Sformatacao/LocaleTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Sformatacao/NumberFormaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Sformatacao/NumberFormaTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Sformatacao/SimpleDateFormateTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/TresouceBundle/ResourceBundleTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Uregex/PatternMatcherTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Uregex/PatternMatcherTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Uregex/PatternMatcherTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Uregex/PatternMatcherTest04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Uregex/PatternMatcherTest05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Uregex/test/ScannerTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Uregex/test/ScannerTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Vio/test/BufferReaderTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Vio/test/BufferedWriterTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Vio/test/FileReaderTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Vio/test/FileTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Vio/test/FileTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Vio/test/FileWriter01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/BasicFileAttributesTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/BasicFileAttributesTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/DirecotoryStreamTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/DosFileAttributeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/FindAllTestJavaOrClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/ListAllFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/ListJavaAllFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/NormalizeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/PathMatcherTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/PathMatcherTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/PathTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/PathTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/PosixFileAttributesTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/RelativizeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/ResolveTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/SimpleFileVisitorTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/SimpleFileVisitorTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Wnio/test/ZipOutputStreamTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Xserializacao/dominio/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Xserializacao/test/SerializaticaoTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/dominio/Manga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/dominio/Smartphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/BinarySeachTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/BinarySeachTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/Consumidor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/EqualsTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/IteratorTet01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/ListSortTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/ListTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/ListaArrayConversaoTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/MangaByIdComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/MangaPrecoComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/MangaSortTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/MapTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/MapTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/MapTeste01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/NavigableSetTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/QueueTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/QueueTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/SetTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/SmartphoneListTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/SmartphoneMarcaComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/YColecoes/test/naviglateMapTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/AnonymousClassesTest01$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/AnonymousClassesTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/AnonymousClassesTest02$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/AnonymousClassesTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/BarcoNameCompparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/OuterClassesTeest01$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/OuterClassesTeest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/OuterClassesTest02$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/OuterClassesTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/OuterClassesTest03$Nested.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZAclasseInternas/test/OuterClassesTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZBcomportamento/dominio/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZBcomportamento/interfaces/CarPredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZBcomportamento/test/ComportamentoPorParamentroTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZBcomportamento/test/ComportamentoPorParamentroTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/Dominio/Anime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/service/AnimeComparators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/test/LambdaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/test/LambdaTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/test/MethodReferenceTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/test/MethodReferenceTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/test/MethodReferenceTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZCLambda/test/MethodReferenceTest04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZDoptional/Dominio/Manga.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZDoptional/repository/MangaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZDoptional/test/OptionalTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZDoptional/test/OptionalTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/dominio/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/dominio/LightNovel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/dominio/Promotion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest12$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZEstreams/test/StreamTest16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/dominio/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/dominio/Members.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/dominio/ThreadAccountTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/service/EmailDeliveryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/test/DeadLockTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/test/EmailDeliveyTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/test/ThreadExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/test/ThreadExampleRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/test/ThreadSafeTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/test/ThreadTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZFthreads/test/ThreadsafeNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/dominio/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/dominio/Discount$Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/dominio/Discount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/dominio/Members.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/dominio/Quote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/dominio/ThreadAccountTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/service/EmailDeliveryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/service/StoreService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/service/StoreServiceDeprecated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/service/StoreServiceWithDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/BlockingQueueTest01$RemoverFromQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/BlockingQueueTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/CallableTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/CompletabletableFutureTest04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/CompletabletableFutureTest05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/CompletetableFutureTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/CompletetableFutureTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/CompletetableFutureTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/CopyOnWriteTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/EmailDeliveyTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/ExecutorsTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/FutureTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/LinkerTransferQueueTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/MapReadWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/RandomNumberCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/ReentrantLockTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/ReentrantReadWriteLockTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/ScheduledExecutorServicePoolTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZGconcorrencia/test/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/AicraftSingletonEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/AirCraftSingletonEager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/AirCraftSingletonLazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/Aircraft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/Currency$Real.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/Currency$UsDollar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/Currency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/CurrencyFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/CurrencyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/Person$PersonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/ReportDto$ReportDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/dominio/ReportDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/test/AicraftSingletonEagerTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/test/AicraftSingletonLazyTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/test/AicraftTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/test/AircraftSingletonEnumTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/test/BuilderPatternTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/test/CurrencyFactoryTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZHpadroesProjeto/test/DataTransferObjectTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/Service/ProducerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/Service/ProducerServiceRowSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/conn/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/dominio/Producer$ProducerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/dominio/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/listener/CustomRowSetListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/repository/ProducerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/repository/ProducerRepositoryRowSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/test/ConnectionFactoryTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZIjdbc/test/ConnectionFactoryTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/conn/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/dominio/Anime$AnimeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/dominio/Anime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/dominio/Producer$ProducerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/dominio/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/repository/AnimeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/repositotry/ProducerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/service/AnimeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/service/ProducerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/ZZJCrud/test/CrudTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/dominio/Barco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/dominio/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/service/BarcoRentavelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/service/CarroRentavelService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/service/RentalService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/ClasseGenericaTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/ClasseGenericaTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/ClasseGenericaTest03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/Consumidor01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/GenericsTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/MetodoGenericoTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/WildCarTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Exemplos/target/classes/javaCore/Zgenerics/test/WildCarTest02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/home/william/dev/arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/DevDojo/messages_en_US.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/DevDojo/messages_pt_BR.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +406,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/DEVMEDIA/BACK_END/DevDojo/Java/Exemplos",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DEVMEDIA/BACK_END/DevDojo/Java/Exemplos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="javaCore.Vio.test" />
@@ -170,6 +538,7 @@
       <workItem from="1696625874247" duration="31000" />
       <workItem from="1696626518597" duration="47000" />
       <workItem from="1697849811738" duration="30000" />
+      <workItem from="1698175724554" duration="33000" />
     </task>
     <servers />
   </component>

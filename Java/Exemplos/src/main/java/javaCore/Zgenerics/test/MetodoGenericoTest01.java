@@ -3,7 +3,7 @@ package javaCore.Zgenerics.test;
 
 import javaCore.Zgenerics.dominio.Barco;
 
-;
+
 import java.util.List;
 
 public class MetodoGenericoTest01 {
