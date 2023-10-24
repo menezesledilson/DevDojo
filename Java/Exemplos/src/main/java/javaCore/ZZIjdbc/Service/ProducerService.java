@@ -25,6 +25,11 @@ public class ProducerService {
     public static List<Producer> findByName(String name) {
         return ProducerRepository.findByName(name);
     }
+    public static List<Producer> findByNamePreparedStatement(String name) {
+        return ProducerRepository.findByNamePreparedStatement(name);
+    }
+
+
     public static void showProducerMetaData() {
          ProducerRepository.showProducerMetaData();
     }
@@ -32,6 +37,15 @@ public class ProducerService {
     public static void showDriverMetaData() {
         ProducerRepository.showDriverMetaData();
     }
+
+    public static void showTypeScrollWorking() {
+        ProducerRepository.showTypeScrollWorking();
+    }
+
+    public static List<Producer> findByNameAndToUpperCase(String name) {
+        return ProducerRepository.findByNameAndToUpperCase(name);
+    }
+
 
     private static void requireValidId(Integer id) throws IllegalAccessException {
         if (id == null || id <= 0) {
